@@ -1,5 +1,3 @@
-
-
 # 🚀 Developing an AI System for Personalized Content Creation in Media
 
 ## 📖 Overview
@@ -246,4 +244,8 @@ This project is developed for educational and research purposes.
 
 ## ⭐ Support
 
+<<<<<<< HEAD
 If you like this project, consider giving it a ⭐ on GitHub.
+=======
+If you like this project, consider giving it a ⭐ on GitHub.
+>>>>>>> 1897b5c (Add professional README)
