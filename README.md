@@ -1,1 +1,1 @@
-# Developing-an-AI-System-for-Personalized-Content-Creation-in-Media_Feb_Batch-8_2026
+# Developing-an-AI-System-for-Personalized-Content-Creation-in-Media
